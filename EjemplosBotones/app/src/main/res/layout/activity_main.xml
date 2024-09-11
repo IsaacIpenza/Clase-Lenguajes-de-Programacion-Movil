@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/LblMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/BtnBoton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pulsame" />
+
+    <Button
+        android:id="@+id/BtnBoton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ok"
+        android:text="@string/pulsame" />
+
+    <ToggleButton
+        android:id="@+id/BtnBoton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/off"
+        android:textOn="@string/on" />
+
+    <ImageButton
+        android:id="@+id/BtnBoton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/icono_ok"
+        android:src="@drawable/ok" />
+
+    <ToggleButton
+        android:id="@+id/BtnBoton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/toggle_style"
+        android:padding="10dip"
+        android:textOff="@string/off"
+        android:textOn="@string/on" />
+
+</LinearLayout>

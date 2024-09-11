@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Car1">
+        <item name="id">XXXX-01</item>
+        <item name="brand">Toyota</item>
+        <item name="name">Rav4</item>
+        <item name="model">2024</item>
+        <item name="NumOfCylinders">6</item>
+        <item name="Price">700,000</item>
+    </string-array>
+    <string-array name="Car2">
+        <item name="id">XXXX-02</item>
+        <item name="brand">Volkswagen</item>
+        <item name="name">Passat</item>
+        <item name="model">2024</item>
+        <item name="NumOfCylinders">6</item>
+        <item name="Price">800,000</item>
+    </string-array>
+    <string-array name="Car3">
+        <item name="id">XXXX-03</item>
+        <item name="brand">Nissan</item>
+        <item name="name">Sentra</item>
+        <item name="model">2010</item>
+        <item name="NumOfCylinders">4</item>
+        <item name="Price">400,000</item>
+    </string-array>
+    <string-array name="Car4">
+        <item name="id">XXXX-04</item>
+        <item name="brand">Toyota</item>
+        <item name="name">Corolla</item>
+        <item name="model">2022</item>
+        <item name="NumOfCylinders">4</item>
+        <item name="Price">500,000</item>
+    </string-array>
+    <array name="cars_catalog">
+        <item>@array/Car1</item>
+        <item>@array/Car2</item>
+        <item>@array/Car3</item>
+        <item>@array/Car4</item>
+    </array>
+
+    <array name="cars_photo">
+        <item>@drawable/rav4</item>
+        <item>@drawable/passat</item>
+        <item>@drawable/sentra</item>
+        <item>@drawable/corolla</item>
+    </array>
+</resources>

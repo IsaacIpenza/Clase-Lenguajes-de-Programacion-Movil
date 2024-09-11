@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valores_array">
+        <item>Elemento1</item>
+        <item>Elemento2</item>
+        <item>Elemento3</item>
+        <item>Elemento4</item>
+        <item>Elemento5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mybar.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:icon="@android:drawable/ic_menu_save"
+        android:id="@+id/menu_save"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_guardar" />
+
+    <item
+        android:id="@+id/menu_new"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/menu_nuevo"/>
+</menu>

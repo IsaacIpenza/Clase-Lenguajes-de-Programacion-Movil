@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Final Project</string>
+    <string name="user_email">User Email :</string>
+    <string name="password">Password :</string>
+    <string name="continuar">Continuar</string>
+    <string name="queries">Queries</string>
+    <string name="movements">Movements</string>
+    <string name="balances">Balances</string>
+    <string name="account_statements">Account Statements</string>
+    <string name="ipenza_bank">IPENZA BANK</string>
+    <string name="credit_cards">Credit Cards :</string>
+    <string name="savings">Savings :</string>
+    <string name="debit_cards">Debit Cards :</string>
+    <string name="your_accounts">Your Accounts</string>
+    <string name="total_credit">Total Credit:</string>
+    <string name="available">Available:</string>
+    <string name="card_ending">Card Ending:</string>
+    <string name="card_endingDC">Card Ending:</string>
+    <string name="availableDC">Available:</string>
+    <string name="description">Description:</string>
+    <string name="movement_date">Movement Date:</string>
+    <string name="amount">Amount:</string>
+    <string name="card_name">Card Name:</string>
+    <string name="movementsM">Movements :</string>
+    <string name="select_an_option">Select an Option:</string>
+    <string name="select_an_account">Select an Account:</string>
+    <string name="select_a_month">Select a Month:</string>
+    <string name="extras">Extras</string>
+    <string name="payments">Payments</string>
+    <string name="purchases">Purchases</string>
+    <string name="branch_offices">Branch Offices</string>
+    <string name="download_text">Select an Option to Download your Account Statement:</string>
+    <string name="cellphone_text">Now with Ipenza Bank you can buy Cellphone Minutes.\n\n $1 = 5min</string>
+    <string name="select_a_card">Select a Card:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="enter_purchase_amount">Enter Purchase Amount ($):</string>
+    <string name="buy">BUY</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="payment_text">Now with Ipenza Bank you can\n pay your different services.</string>
+    <string name="select_a_service_to_pay">Select a Service to Pay:</string>
+    <string name="ingress_an_amount_to_pay">Ingress an Amount to Pay</string>
+    <string name="pay">PAY</string>
+    <string name="select_a_transfer_option">Select a Transfer Option:</string>
+    <string name="other_bank_card_number">Other Bank - Card Number:</string>
+    <string name="transfer_amount">Transfer Amount:</string>
+</resources>

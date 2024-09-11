@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo SQLite</string>
+    <string name="hello_world">SQLite</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nombre">Escribe el nombre de la Base de Datos a Crear:</string>
+    <string name="hola">Crear Base de Datos</string>
+    <string name="title_activity_saludo">Ejemplo SQLite</string>
+    <string name="title_activity_frm_saludo">Ejemplo SQLite</string>
+</resources>

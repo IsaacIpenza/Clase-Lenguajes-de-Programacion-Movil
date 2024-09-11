@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Queries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/queries" />
+    <item
+        android:id="@+id/Movements"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/movements" />
+    <item
+        android:id="@+id/Balances"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/balances" />
+    <item
+        android:id="@+id/Account_Statements"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/account_statements" />
+    <item
+        android:id="@+id/Extras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/extras" >
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+            <item
+                android:id="@+id/Payments"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/payments" />
+            <item
+                android:id="@+id/Purchases"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/purchases" />
+            <item
+                android:id="@+id/Branch_Offices"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/branch_offices" />
+        </menu>
+    </item>
+</menu>
